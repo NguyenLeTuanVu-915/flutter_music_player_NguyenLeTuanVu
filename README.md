@@ -1,4 +1,4 @@
-# Musix — Offline Music Player
+# Offline Music Player
 
 > Ứng dụng nghe nhạc offline được xây dựng bằng Flutter, hỗ trợ quản lý thư viện nhạc, playlist, và phát nhạc nền trên Android.
 
