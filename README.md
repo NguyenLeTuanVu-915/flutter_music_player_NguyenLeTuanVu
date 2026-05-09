@@ -53,6 +53,16 @@
 | Android | API 21+ (Android 5.0 Lollipop) |
 | IDE | Android Studio / VS Code với Flutter extension |
 
+## Screenshots
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/83875a2d-499b-47f2-94ac-89fd098de370" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2a82e4ce-da73-4839-a55c-5ff541984ce1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b615ff35-edde-4fa2-8ba3-43f437c93348" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32e5798f-04a2-4bca-a6f6-c4c166744e59" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/86f24517-15ca-4983-b814-da7e7556950c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ba87650-d58f-4bcf-b332-19c9c0fdd339" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b0c4164e-2a49-437c-94ed-d7b54291f92c" />
+
 ## Cài đặt & Chạy dự án
 
 ### 1. Clone dự án
