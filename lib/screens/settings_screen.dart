@@ -348,7 +348,7 @@ class SettingsScreen extends StatelessWidget {
         _buildInfoTile(
           icon: Icons.music_note_rounded,
           label: 'Ứng dụng',
-          value: 'Musix Player',
+          value: 'Music Player',
         ),
         _buildDivider(),
         _buildInfoTile(
