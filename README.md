@@ -63,6 +63,10 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ba87650-d58f-4bcf-b332-19c9c0fdd339" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b0c4164e-2a49-437c-94ed-d7b54291f92c" />
 
+## Video demo
+
+https://drive.google.com/file/d/1QE8Vscbim-h3w0a7J5izQzojv7VP35-g/view?usp=drive_link
+
 ## Cài đặt & Chạy dự án
 
 ### 1. Clone dự án
